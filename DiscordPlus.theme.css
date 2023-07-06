@@ -61,8 +61,8 @@
 /* Fonts */
 /* You can use any installed font on your device. */
   --dplus-font-ui: 'Justice';
-  --dplus-font-body: 'Justice';
-  --dplus-font-header: 'Justice Outline';
+  --dplus-font-body: 'Justice Outline';
+  --dplus-font-header: 'Justice';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
