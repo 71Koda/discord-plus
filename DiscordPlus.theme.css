@@ -60,8 +60,8 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Justice Outline';
-  --dplus-font-body: 'Justice Outline';
+  --dplus-font-ui: 'Justice';
+  --dplus-font-body: 'Justice';
   --dplus-font-header: 'Justice Outline';
 
 /* Round corner sizes, measured in pixel radius.
