@@ -35,7 +35,7 @@
   --dplus-background-color-hue: 320;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0.8;
+  --dplus-background-color-alpha: 0.9;
 }
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Justice';
-  --dplus-font-body: 'Justice';
-  --dplus-font-header: 'Justice';
+  --dplus-font-ui: 'Justice Outline';
+  --dplus-font-body: 'Justice Outline';
+  --dplus-font-header: 'Justice Outline';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
